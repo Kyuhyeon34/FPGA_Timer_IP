@@ -33,6 +33,10 @@ src/
 ```
 코드 안의 `[원본] / [수정] / [추가] / [신규]` 주석으로 기존 코드에서 바뀐 부분을 표시했습니다.
 
+## 원본 비교용 폴더
+`reference/09.up_down_counter/` : 재사용한 09번 up/down counter 프로젝트 **원본 그대로** (수정 없음).
+파일 대응표는 [reference/09.up_down_counter/README.md](reference/09.up_down_counter/README.md) 참고.
+
 ## 실행
 - 프로젝트 열기 : `11.stopwatch.xpr`
 - 프로젝트 새로 만들기 + 비트스트림 : `vivado -mode batch -source create_project.tcl`
