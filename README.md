@@ -1,4 +1,4 @@
-# 분초시계 & Stopwatch (Basys3)
+# FSM 기반 하드웨어 타이머 IP RTL 설계 및 FPGA 구현
 
 Basys3(xc7a35tcpg236-1) 4자리 FND에 분초시계와 스톱워치를 구현한 Verilog 프로젝트 (Vivado 2020.2)
 
